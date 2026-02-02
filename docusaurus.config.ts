@@ -15,7 +15,8 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://github.com/KaungMyatHein/Orchestra-Plugin.git',
+  // Set the production url of your site here
+  url: 'https://orchestra-wiki.vercel.app',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // For Vercel, it is usually '/'
@@ -23,8 +24,8 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'Harry Hein', // Usually your GitHub org/user name.
-  projectName: 'orchestra-product-wiki', // Usually your repo name.
+  organizationName: 'KaungMyatHein', // Usually your GitHub org/user name.
+  projectName: 'Orchestra-Wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',

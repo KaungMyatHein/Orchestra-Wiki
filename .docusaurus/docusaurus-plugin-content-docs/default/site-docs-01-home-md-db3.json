@@ -1,0 +1,23 @@
+{
+  "id": "home",
+  "title": "🎻 Introduction",
+  "description": "What is Orchestra Syncs?",
+  "source": "@site/docs/01-home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "⚙️ Plugin Setting",
+    "permalink": "/page-1"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "defaultLocale": "en",
+  "locales": [
+    "en",
+    "my"
+  ],
+  "path": "i18n",
+  "currentLocale": "my",
+  "localeConfigs": {
+    "en": {
+      "label": "English",
+      "direction": "ltr",
+      "htmlLang": "en",
+      "calendar": "gregory",
+      "path": "en",
+      "translate": false,
+      "url": "https://orchestra-wiki.vercel.app",
+      "baseUrl": "/"
+    },
+    "my": {
+      "label": "Myanmar",
+      "direction": "ltr",
+      "htmlLang": "my",
+      "calendar": "gregory",
+      "path": "my",
+      "translate": true,
+      "url": "https://orchestra-wiki.vercel.app",
+      "baseUrl": "/my/"
+    }
+  }
+}

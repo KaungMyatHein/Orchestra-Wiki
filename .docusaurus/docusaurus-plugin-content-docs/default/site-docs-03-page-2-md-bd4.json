@@ -1,0 +1,26 @@
+{
+  "id": "page-2",
+  "title": "💻 Web Implementation",
+  "description": "Setup for React / Vue / HTML",
+  "source": "@site/docs/03-page-2.md",
+  "sourceDirName": ".",
+  "slug": "/page-2",
+  "permalink": "/page-2",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "⚙️ Plugin Setting",
+    "permalink": "/page-1"
+  },
+  "next": {
+    "title": " iOS Implementation",
+    "permalink": "/page-3"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "page-4",
+  "title": "🤖 Android Implementation",
+  "description": "Coming Soon",
+  "source": "@site/docs/05-page-4.md",
+  "sourceDirName": ".",
+  "slug": "/page-4",
+  "permalink": "/page-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": " iOS Implementation",
+    "permalink": "/page-3"
+  },
+  "next": {
+    "title": "🎨 Designer Guide For Plugin",
+    "permalink": "/page-5"
+  }
+}

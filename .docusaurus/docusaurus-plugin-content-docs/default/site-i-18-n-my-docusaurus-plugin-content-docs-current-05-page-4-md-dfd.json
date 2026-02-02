@@ -1,0 +1,26 @@
+{
+  "id": "page-4",
+  "title": "🤖 Android အတွက်ပြင်ဆင်မှုများ",
+  "description": "Setup for React / Vue / HTML",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/05-page-4.md",
+  "sourceDirName": ".",
+  "slug": "/page-4",
+  "permalink": "/my/page-4",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": " iOS အတွက်ပြင်ဆင်မှုများ",
+    "permalink": "/my/page-3"
+  },
+  "next": {
+    "title": "စာမျက်နှာ ၅ (Page 5)",
+    "permalink": "/my/page-5"
+  }
+}

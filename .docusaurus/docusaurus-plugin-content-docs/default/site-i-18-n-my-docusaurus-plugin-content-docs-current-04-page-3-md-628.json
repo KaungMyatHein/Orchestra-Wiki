@@ -1,0 +1,26 @@
+{
+  "id": "page-3",
+  "title": " iOS အတွက်ပြင်ဆင်မှုများ",
+  "description": "Setup for React / Vue / HTML",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/04-page-3.md",
+  "sourceDirName": ".",
+  "slug": "/page-3",
+  "permalink": "/my/page-3",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "💻 Web အတွက်ပြင်ဆင်မှုများ",
+    "permalink": "/my/page-2"
+  },
+  "next": {
+    "title": "🤖 Android အတွက်ပြင်ဆင်မှုများ",
+    "permalink": "/my/page-4"
+  }
+}

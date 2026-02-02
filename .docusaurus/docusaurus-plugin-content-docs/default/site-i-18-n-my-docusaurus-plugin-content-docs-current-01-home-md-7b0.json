@@ -1,0 +1,23 @@
+{
+  "id": "home",
+  "title": "🎻 နိဒါန်း",
+  "description": "Orchestra Syncs ဆိုတာဘာလဲ?",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/01-home.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/my/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "🎨 ဒီဇိုင်နာများအတွက် လမ်းညွှန်",
+    "permalink": "/my/page-1"
+  }
+}

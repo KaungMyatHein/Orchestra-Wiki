@@ -1,0 +1,22 @@
+{
+  "id": "page-5",
+  "title": "စာမျက်နှာ ၅ (Page 5)",
+  "description": "ဒါက စာမျက်နှာ ၅ အတွက် နမူနာ ဖြစ်ပါတယ်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/06-page-5.md",
+  "sourceDirName": ".",
+  "slug": "/page-5",
+  "permalink": "/my/page-5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤖 Android အတွက်ပြင်ဆင်မှုများ",
+    "permalink": "/my/page-4"
+  }
+}

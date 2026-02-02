@@ -1,0 +1,22 @@
+{
+  "id": "page-5",
+  "title": "🎨 Designer Guide For Plugin",
+  "description": "How to Syncs The Variables To Github",
+  "source": "@site/docs/06-page-5.md",
+  "sourceDirName": ".",
+  "slug": "/page-5",
+  "permalink": "/page-5",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "🤖 Android Implementation",
+    "permalink": "/page-4"
+  }
+}
