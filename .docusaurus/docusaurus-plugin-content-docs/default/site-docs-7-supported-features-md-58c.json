@@ -1,0 +1,26 @@
+{
+  "id": "Supported_Features",
+  "title": "Supported Features",
+  "description": "Orchestra Sync is built to handle the core building blocks of a modern Design System. Here is what it supports out of the box.",
+  "source": "@site/docs/7_Supported_Features.md",
+  "sourceDirName": ".",
+  "slug": "/Supported_Features",
+  "permalink": "/Supported_Features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Things to Take Care Of (Best Practices)",
+    "permalink": "/Things_To_Take_Care"
+  },
+  "next": {
+    "title": "Limitations (What is Not Supported)",
+    "permalink": "/Unsupported_Features"
+  }
+}

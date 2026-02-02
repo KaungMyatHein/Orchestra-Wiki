@@ -1,0 +1,26 @@
+{
+  "id": "Prerequisites",
+  "title": "ကြိုတင်လိုအပ်ချက်များ",
+  "description": "Orchestra Sync နဲ့ သင့် Design System ကို မစီမံခန့်ခွဲခင်မှာ၊ ဇာတ်ခုံ နေရာချထားမှု အဆင်သင့် ဖြစ်မဖြစ် စစ်ဆေးရပါမယ်။ မရှိမဖြစ် လိုအပ်ချက် အချို့ ရှိပါတယ်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/5_Prerequisites.md",
+  "sourceDirName": ".",
+  "slug": "/Prerequisites",
+  "permalink": "/my/Prerequisites",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Data တွေကို ဘယ်လို သိမ်းဆည်းထားသလဲ?",
+    "permalink": "/my/Data_Storage"
+  },
+  "next": {
+    "title": "သတိပြုရန် အချက်များ (Best Practices)",
+    "permalink": "/my/Things_To_Take_Care"
+  }
+}

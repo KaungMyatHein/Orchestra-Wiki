@@ -1,0 +1,26 @@
+{
+  "id": "Supported_Features",
+  "title": "ရရှိနိုင်သော လုပ်ဆောင်ချက်များ (Supported Features)",
+  "description": "Orchestra Sync ကို ခေတ်မီ Design System တစ်ခုရဲ့ အခြေခံ အဆောက်အဦတွေ ကိုင်တွယ်နိုင်ဖို့ တည်ဆောက်ထားပါတယ်။ လက်ရှိမှာ အောက်ပါတို့ကို ထောက်ပံ့ပေးထားပါတယ်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/7_Supported_Features.md",
+  "sourceDirName": ".",
+  "slug": "/Supported_Features",
+  "permalink": "/my/Supported_Features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "သတိပြုရန် အချက်များ (Best Practices)",
+    "permalink": "/my/Things_To_Take_Care"
+  },
+  "next": {
+    "title": "လက်ရှိ မပါဝင်သေးသော အရာများ (Limitations)",
+    "permalink": "/my/Unsupported_Features"
+  }
+}

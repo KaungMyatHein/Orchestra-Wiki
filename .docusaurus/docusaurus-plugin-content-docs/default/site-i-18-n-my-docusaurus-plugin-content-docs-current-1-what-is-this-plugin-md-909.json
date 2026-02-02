@@ -1,0 +1,23 @@
+{
+  "id": "What_Is_This_Plugin",
+  "title": "Orchestra Sync ဆိုတာ ဘာလဲ?",
+  "description": "Design နဲ့ Development ကြားက အတားအဆီးတွေ ပျက်ပြားသွားမယ့် ကမ္ဘာတစ်ခုကို မြင်ယောင်ကြည့်လိုက်ပါ။ အဲဒါကတော့ Orchestra Sync က ဖန်တီးပေးမယ့် ကမ္ဘာပါပဲ။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/1_What_Is_This_Plugin.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/my/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "ဘယ်လို အလုပ်လုပ်သလဲ?",
+    "permalink": "/my/How_It_Works"
+  }
+}

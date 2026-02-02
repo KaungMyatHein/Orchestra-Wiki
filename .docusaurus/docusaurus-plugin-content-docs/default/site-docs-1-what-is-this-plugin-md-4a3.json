@@ -1,0 +1,23 @@
+{
+  "id": "What_Is_This_Plugin",
+  "title": "What is Orchestra Sync?",
+  "description": "Imagine a world where the wall between Design and Development crumbles down. That is the world Orchestra Sync builds for you.",
+  "source": "@site/docs/1_What_Is_This_Plugin.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "slug": "/",
+    "sidebar_position": 1
+  },
+  "sidebar": "tutorialSidebar",
+  "next": {
+    "title": "How It Works",
+    "permalink": "/How_It_Works"
+  }
+}

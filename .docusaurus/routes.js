@@ -4,49 +4,61 @@ import ComponentCreator from '@docusaurus/ComponentCreator';
 export default [
   {
     path: '/my/',
-    component: ComponentCreator('/my/', '8c6'),
+    component: ComponentCreator('/my/', '056'),
     routes: [
       {
         path: '/my/',
-        component: ComponentCreator('/my/', '6da'),
+        component: ComponentCreator('/my/', '123'),
         routes: [
           {
             path: '/my/',
-            component: ComponentCreator('/my/', '630'),
+            component: ComponentCreator('/my/', '18f'),
             routes: [
               {
-                path: '/my/page-1/',
-                component: ComponentCreator('/my/page-1/', 'e01'),
+                path: '/my/Data_Storage/',
+                component: ComponentCreator('/my/Data_Storage/', '749'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/my/page-2/',
-                component: ComponentCreator('/my/page-2/', '472'),
+                path: '/my/How_It_Works/',
+                component: ComponentCreator('/my/How_It_Works/', '7a3'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/my/page-3/',
-                component: ComponentCreator('/my/page-3/', 'ff1'),
+                path: '/my/How_To_Set_Up/',
+                component: ComponentCreator('/my/How_To_Set_Up/', '8ea'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/my/page-4/',
-                component: ComponentCreator('/my/page-4/', '540'),
+                path: '/my/Prerequisites/',
+                component: ComponentCreator('/my/Prerequisites/', '86d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/my/page-5/',
-                component: ComponentCreator('/my/page-5/', '71d'),
+                path: '/my/Supported_Features/',
+                component: ComponentCreator('/my/Supported_Features/', '054'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/my/Things_To_Take_Care/',
+                component: ComponentCreator('/my/Things_To_Take_Care/', '51f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/my/Unsupported_Features/',
+                component: ComponentCreator('/my/Unsupported_Features/', '56f'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
               {
                 path: '/my/',
-                component: ComponentCreator('/my/', '822'),
+                component: ComponentCreator('/my/', 'd15'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               }

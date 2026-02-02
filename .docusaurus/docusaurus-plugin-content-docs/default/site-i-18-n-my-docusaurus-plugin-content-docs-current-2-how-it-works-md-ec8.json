@@ -1,0 +1,26 @@
+{
+  "id": "How_It_Works",
+  "title": "ဘယ်လို အလုပ်လုပ်သလဲ?",
+  "description": "ဒီမှော်ဆန်တဲ့ လုပ်ဆောင်မှုတွေ ဘယ်လိုဖြစ်ပျက်သွားတာလဲ? ကဲ... နောက်ကွယ်က အကြောင်းအရာလေးတွေကို ကြည့်လိုက်ရအောင်။ Orchestra Sync ဟာ Figma နဲ့ GitHub ကြားက စကားပြန်တစ်ယောက်၊ စာပို့လုလင်တစ်ယောက် အဖြစ် လုပ်ဆောင်ပေးပါတယ်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/2_How_It_Works.md",
+  "sourceDirName": ".",
+  "slug": "/How_It_Works",
+  "permalink": "/my/How_It_Works",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Orchestra Sync ဆိုတာ ဘာလဲ?",
+    "permalink": "/my/"
+  },
+  "next": {
+    "title": "Settings များကို ဘယ်လို ပြင်ဆင်မလဲ?",
+    "permalink": "/my/How_To_Set_Up"
+  }
+}

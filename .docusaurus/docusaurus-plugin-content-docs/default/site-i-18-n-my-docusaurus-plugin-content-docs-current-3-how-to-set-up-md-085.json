@@ -1,0 +1,26 @@
+{
+  "id": "How_To_Set_Up",
+  "title": "Settings များကို ဘယ်လို ပြင်ဆင်မလဲ?",
+  "description": "Orchestra Sync ကို စတင်အသုံးပြုဖို့အတွက် သင့် Design File နဲ့ Code Repository ကို ချိတ်ဆက်ပေးဖို့ Setting ချိန်ညှိမှု တစ်ကြိမ် ပြုလုပ်ရပါမယ်။ ဒါဟာ ဖျော်ဖြေပွဲမစခင် ဂီတတူရိယာတွေကို အသံညှိတာနဲ့ တူပါတယ်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/3_How_To_Set_Up.md",
+  "sourceDirName": ".",
+  "slug": "/How_To_Set_Up",
+  "permalink": "/my/How_To_Set_Up",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ဘယ်လို အလုပ်လုပ်သလဲ?",
+    "permalink": "/my/How_It_Works"
+  },
+  "next": {
+    "title": "Data တွေကို ဘယ်လို သိမ်းဆည်းထားသလဲ?",
+    "permalink": "/my/Data_Storage"
+  }
+}

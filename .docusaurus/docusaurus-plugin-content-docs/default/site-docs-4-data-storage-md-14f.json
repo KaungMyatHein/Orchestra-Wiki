@@ -1,0 +1,26 @@
+{
+  "id": "Data_Storage",
+  "title": "How the Data are Stored",
+  "description": "In the world of software, trust is built on knowing where your data lives. Orchestra Sync treats your data with two distinct levels of residence.",
+  "source": "@site/docs/4_Data_Storage.md",
+  "sourceDirName": ".",
+  "slug": "/Data_Storage",
+  "permalink": "/Data_Storage",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How to Set Up Your Settings",
+    "permalink": "/How_To_Set_Up"
+  },
+  "next": {
+    "title": "Prerequisites",
+    "permalink": "/Prerequisites"
+  }
+}

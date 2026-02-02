@@ -1,0 +1,22 @@
+{
+  "id": "Unsupported_Features",
+  "title": "Limitations (What is Not Supported)",
+  "description": "To use a tool effectively, you must know its boundaries. Here are the things Orchestra Sync does not currently handle.",
+  "source": "@site/docs/8_Unsupported_Features.md",
+  "sourceDirName": ".",
+  "slug": "/Unsupported_Features",
+  "permalink": "/Unsupported_Features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 8,
+  "frontMatter": {
+    "sidebar_position": 8
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Supported Features",
+    "permalink": "/Supported_Features"
+  }
+}

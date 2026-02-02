@@ -8,36 +8,46 @@
           "label": "Next",
           "isLast": true,
           "path": "/my/",
-          "mainDocId": "home",
+          "mainDocId": "What_Is_This_Plugin",
           "docs": [
             {
-              "id": "home",
+              "id": "Data_Storage",
+              "path": "/my/Data_Storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How_It_Works",
+              "path": "/my/How_It_Works",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "How_To_Set_Up",
+              "path": "/my/How_To_Set_Up",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Prerequisites",
+              "path": "/my/Prerequisites",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Supported_Features",
+              "path": "/my/Supported_Features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Things_To_Take_Care",
+              "path": "/my/Things_To_Take_Care",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Unsupported_Features",
+              "path": "/my/Unsupported_Features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "What_Is_This_Plugin",
               "path": "/my/",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "page-1",
-              "path": "/my/page-1",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "page-2",
-              "path": "/my/page-2",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "page-3",
-              "path": "/my/page-3",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "page-4",
-              "path": "/my/page-4",
-              "sidebar": "tutorialSidebar"
-            },
-            {
-              "id": "page-5",
-              "path": "/my/page-5",
               "sidebar": "tutorialSidebar"
             }
           ],
@@ -46,7 +56,7 @@
             "tutorialSidebar": {
               "link": {
                 "path": "/my/",
-                "label": "home"
+                "label": "What_Is_This_Plugin"
               }
             }
           }

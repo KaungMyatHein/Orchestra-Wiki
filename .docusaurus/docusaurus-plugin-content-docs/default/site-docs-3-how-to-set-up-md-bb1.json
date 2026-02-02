@@ -1,0 +1,26 @@
+{
+  "id": "How_To_Set_Up",
+  "title": "How to Set Up Your Settings",
+  "description": "Setting up Orchestra Sync is a one-time ritual to bind your design file to your code repository. Think of it as tuning your instrument before the concert.",
+  "source": "@site/docs/3_How_To_Set_Up.md",
+  "sourceDirName": ".",
+  "slug": "/How_To_Set_Up",
+  "permalink": "/How_To_Set_Up",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How It Works",
+    "permalink": "/How_It_Works"
+  },
+  "next": {
+    "title": "How the Data are Stored",
+    "permalink": "/Data_Storage"
+  }
+}

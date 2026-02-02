@@ -1,0 +1,26 @@
+{
+  "id": "Prerequisites",
+  "title": "Prerequisites",
+  "description": "Before you can begin conducting your design system with Orchestra Sync, you must ensure the stage is set. There are a few non-negotiable requirements.",
+  "source": "@site/docs/5_Prerequisites.md",
+  "sourceDirName": ".",
+  "slug": "/Prerequisites",
+  "permalink": "/Prerequisites",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How the Data are Stored",
+    "permalink": "/Data_Storage"
+  },
+  "next": {
+    "title": "Things to Take Care Of (Best Practices)",
+    "permalink": "/Things_To_Take_Care"
+  }
+}
