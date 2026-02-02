@@ -15,7 +15,7 @@ const config: Config = {
   },
 
   // Set the production url of your site here
-  url: 'https://your-org.github.io',
+  url: 'https://github.com/KaungMyatHein/Orchestra-Plugin.git',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
   // For Vercel, it is usually '/'
@@ -23,7 +23,7 @@ const config: Config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'your-org', // Usually your GitHub org/user name.
+  organizationName: 'Harry Hein', // Usually your GitHub org/user name.
   projectName: 'orchestra-product-wiki', // Usually your repo name.
 
   onBrokenLinks: 'throw',
@@ -84,7 +84,7 @@ const config: Config = {
           position: 'right',
         },
         {
-          href: 'https://github.com/facebook/docusaurus',
+          href: 'https://github.com/KaungMyatHein/Orchestra-Plugin.git',
           label: 'GitHub',
           position: 'right',
         },
