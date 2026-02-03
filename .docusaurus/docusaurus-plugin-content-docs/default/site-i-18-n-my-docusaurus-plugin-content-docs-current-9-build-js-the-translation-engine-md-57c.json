@@ -1,0 +1,27 @@
+{
+  "id": "Build.JS_The_Translation_Engine",
+  "title": "Translation အင်ဂျင်",
+  "description": "Designers က \"Design\" ဘာသာစကား (Pixels, Hex Codes) နဲ့ ပြောကြတယ်။ Developers တွေကတော့ \"Code\" ဘာသာစကား (CSS Variables, Swift, Kotlin) နဲ့ ပြောကြတယ်။ Build.JS ဆိုတာ ဒီနှစ်ယောက်ကြားက စကားပြန် (Translator) ပါပဲ။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/9_Build.JS_The_Translation_Engine.md",
+  "sourceDirName": ".",
+  "slug": "/build-js-translation-engine",
+  "permalink": "/my/build-js-translation-engine",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "slug": "/build-js-translation-engine"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "လက်ရှိ မပါဝင်သေးသော အရာများ (Limitations)",
+    "permalink": "/my/Unsupported_Features"
+  },
+  "next": {
+    "title": "Figma နဲ့ Code ကြားက တံတား",
+    "permalink": "/my/Design_Syncs.YAML_Bridge_Between_Figma_And_Code"
+  }
+}

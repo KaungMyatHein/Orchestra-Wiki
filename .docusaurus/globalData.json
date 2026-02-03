@@ -11,8 +11,18 @@
           "mainDocId": "What_Is_This_Plugin",
           "docs": [
             {
+              "id": "Build.JS_The_Translation_Engine",
+              "path": "/my/build-js-translation-engine",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "Data_Storage",
               "path": "/my/Data_Storage",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
+              "path": "/my/Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -21,8 +31,23 @@
               "sidebar": "tutorialSidebar"
             },
             {
+              "id": "How_To_Set_Setting_For_Figma_Plugin",
+              "path": "/my/How_To_Set_Setting_For_Figma_Plugin",
+              "sidebar": "tutorialSidebar"
+            },
+            {
               "id": "How_To_Set_Up",
               "path": "/my/How_To_Set_Up",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Package_JSON",
+              "path": "/my/Package_JSON",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Possible_Error_You_Will_Face",
+              "path": "/my/Possible_Error_You_Will_Face",
               "sidebar": "tutorialSidebar"
             },
             {
@@ -33,6 +58,11 @@
             {
               "id": "Supported_Features",
               "path": "/my/Supported_Features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Syncing_Tokens_To_Github",
+              "path": "/my/Syncing_Tokens_To_Github",
               "sidebar": "tutorialSidebar"
             },
             {

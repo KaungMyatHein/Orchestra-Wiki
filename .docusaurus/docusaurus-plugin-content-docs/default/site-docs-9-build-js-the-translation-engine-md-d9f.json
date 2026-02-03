@@ -1,0 +1,27 @@
+{
+  "id": "Build.JS_The_Translation_Engine",
+  "title": "The Translation Engine",
+  "description": "Designers speak \"Visual\" (Pixels, Hex Codes). Developers speak \"Code\" (CSS Variables, Swift, Kotlin). Build.JS is the translator that sits between them.",
+  "source": "@site/docs/9_Build.JS_The_Translation_Engine.md",
+  "sourceDirName": ".",
+  "slug": "/build-js-translation-engine",
+  "permalink": "/build-js-translation-engine",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9,
+    "slug": "/build-js-translation-engine"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Limitations (What is Not Supported)",
+    "permalink": "/Unsupported_Features"
+  },
+  "next": {
+    "title": "The Bridge Between Figma and Code",
+    "permalink": "/Design_Syncs.YAML_Bridge_Between_Figma_And_Code"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "Syncing_Tokens_To_Github",
+  "title": "Syncing Tokens To Github",
+  "description": "Once your Settings are configured, you're ready to sync. Switch to the Sync Tokens tab.",
+  "source": "@site/docs/13_Syncing_Tokens_To_Github.md",
+  "sourceDirName": ".",
+  "slug": "/Syncing_Tokens_To_Github",
+  "permalink": "/Syncing_Tokens_To_Github",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 13,
+  "frontMatter": {
+    "sidebar_position": 13
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How To Set Setting For Figma Plugin",
+    "permalink": "/How_To_Set_Setting_For_Figma_Plugin"
+  },
+  "next": {
+    "title": "Possible Errors You Will Face",
+    "permalink": "/Possible_Error_You_Will_Face"
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "id": "Syncing_Tokens_To_Github",
+  "title": "Syncing Tokens To Github",
+  "description": "",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/12_Syncing_Tokens_To_Github.md",
+  "sourceDirName": ".",
+  "slug": "/Syncing_Tokens_To_Github",
+  "permalink": "/my/Syncing_Tokens_To_Github",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "How To Set Setting For Figma Plugin",
+    "permalink": "/my/How_To_Set_Setting_For_Figma_Plugin"
+  }
+}

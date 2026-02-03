@@ -18,5 +18,9 @@
   "previous": {
     "title": "Supported Features",
     "permalink": "/Supported_Features"
+  },
+  "next": {
+    "title": "The Translation Engine",
+    "permalink": "/build-js-translation-engine"
   }
 }

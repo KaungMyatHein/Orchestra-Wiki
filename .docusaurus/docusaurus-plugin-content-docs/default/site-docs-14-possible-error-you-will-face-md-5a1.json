@@ -1,0 +1,22 @@
+{
+  "id": "Possible_Error_You_Will_Face",
+  "title": "Possible Errors You Will Face",
+  "description": "When working with Orchestra Sync, you may encounter various errors. This guide helps you diagnose and resolve the most common ones.",
+  "source": "@site/docs/14_Possible_Error_You_Will_Face.md",
+  "sourceDirName": ".",
+  "slug": "/Possible_Error_You_Will_Face",
+  "permalink": "/Possible_Error_You_Will_Face",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 14,
+  "frontMatter": {
+    "sidebar_position": 14
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Syncing Tokens To Github",
+    "permalink": "/Syncing_Tokens_To_Github"
+  }
+}

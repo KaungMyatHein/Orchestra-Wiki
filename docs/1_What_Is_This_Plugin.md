@@ -17,6 +17,9 @@ Weeks later, the design changes to `#0D8ADB`. The developer misses the memo. The
 ## The Solution
 **Orchestra Sync** automates this specific handoff. It takes your Figma Variabes—your colors, your spacing, your typography—and instantly transforms them into **Design Tokens** (JSON code) that live directly in your engineering team's GitHub repository.
 
+
+![How Orchestra Works](/img/orchestra-sync-diagram.png)  
+
 It doesn't just "export" a file. It acts as a live link. When you update a color in Figma, Orchestra Sync pushes that update directly to the code. It ensures that the "truth" in your design file is the exact same "truth" in the production app.
 
 It is not just a tool; it is the single source of truth engine for your product's design language.

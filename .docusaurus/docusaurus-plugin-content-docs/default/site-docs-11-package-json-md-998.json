@@ -1,0 +1,26 @@
+{
+  "id": "Package_JSON",
+  "title": "The Control Center",
+  "description": "What is this?",
+  "source": "@site/docs/11_Package_JSON.md",
+  "sourceDirName": ".",
+  "slug": "/Package_JSON",
+  "permalink": "/Package_JSON",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 11,
+  "frontMatter": {
+    "sidebar_position": 11
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Bridge Between Figma and Code",
+    "permalink": "/Design_Syncs.YAML_Bridge_Between_Figma_And_Code"
+  },
+  "next": {
+    "title": "How To Set Setting For Figma Plugin",
+    "permalink": "/How_To_Set_Setting_For_Figma_Plugin"
+  }
+}

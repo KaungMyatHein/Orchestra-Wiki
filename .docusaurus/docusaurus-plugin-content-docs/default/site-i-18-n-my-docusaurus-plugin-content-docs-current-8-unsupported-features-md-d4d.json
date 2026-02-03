@@ -18,5 +18,9 @@
   "previous": {
     "title": "ရရှိနိုင်သော လုပ်ဆောင်ချက်များ (Supported Features)",
     "permalink": "/my/Supported_Features"
+  },
+  "next": {
+    "title": "Translation အင်ဂျင်",
+    "permalink": "/my/build-js-translation-engine"
   }
 }

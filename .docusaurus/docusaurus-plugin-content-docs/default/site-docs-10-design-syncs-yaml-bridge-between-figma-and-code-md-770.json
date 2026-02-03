@@ -1,0 +1,26 @@
+{
+  "id": "Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
+  "title": "The Bridge Between Figma and Code",
+  "description": "Figma is an island. Your Codebase is an island. Design Syncs builds the bridge between them. It acts as an Automated Courier that delivers design updates to your engineering team without you ever having to leave Figma.",
+  "source": "@site/docs/10_Design_Syncs.YAML_Bridge_Between_Figma_And_Code.md",
+  "sourceDirName": ".",
+  "slug": "/Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
+  "permalink": "/Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Translation Engine",
+    "permalink": "/build-js-translation-engine"
+  },
+  "next": {
+    "title": "The Control Center",
+    "permalink": "/Package_JSON"
+  }
+}

@@ -16,6 +16,8 @@ Design နဲ့ Development ကြားက အတားအဆီးတွေ �
 ## ဖြေရှင်းနည်း
 **Orchestra Sync** က ဒီလို လက်ဆင့်ကမ်းရတဲ့ လုပ်ငန်းစဉ်ကို အလိုအလျောက် လုပ်ဆောင်ပေးပါတယ်။ သူက သင့်ရဲ့ Figma Variables တွေ (Colors, Spacing, Typography စတာတွေ) ကို **Design Tokens** (JSON code) အဖြစ် ချက်ချင်း ပြောင်းလဲပေးပြီး Engineering Team ရဲ့ GitHub Repository ဆီကို တိုက်ရိုက် ပို့ပေးပါတယ်။
 
+![How Orchestra Works](/img/orchestra-sync-diagram.png)  
+
 သူက ဖိုင်တစ်ခုကို "Export" ထုတ်ပေးလိုက်ရုံ သက်သက် မဟုတ်ပါဘူး။ "Live Link" တစ်ခုလို ချိတ်ဆက်ပေးထားတာပါ။ Figma မှာ အရောင်တစ်ခု ပြောင်းလိုက်တာနဲ့၊ Orchestra Sync က Code ဘက်မှာပါ ပြောင်းလဲသွားအောင် လုပ်ဆောင်ပေးပါတယ်။ Design ဖိုင်ထဲက " အမှန်တရား (Source of Truth)" ဟာ လက်တွေ့ App ထဲက "အမှန်တရား" နဲ့ တစ်ထပ်တည်း ဖြစ်နေစေမှာပါ။
 
 ဒါဟာ Tool တစ်ခု သက်သက် မဟုတ်ပါဘူး၊ သင့် Product ရဲ့ Design Language တစ်ခုလုံးအတွက် တစ်ခုတည်းသော "Source of Truth Engine" ဖြစ်ပါတယ်။

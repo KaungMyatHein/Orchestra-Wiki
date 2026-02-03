@@ -1,0 +1,26 @@
+{
+  "id": "How_To_Set_Setting_For_Figma_Plugin",
+  "title": "How To Set Setting For Figma Plugin",
+  "description": "The GitHub Configuration Panel",
+  "source": "@site/docs/12_How_To_Set_Setting_For_Figma_Plugin.md",
+  "sourceDirName": ".",
+  "slug": "/How_To_Set_Setting_For_Figma_Plugin",
+  "permalink": "/How_To_Set_Setting_For_Figma_Plugin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 12,
+  "frontMatter": {
+    "sidebar_position": 12
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "The Control Center",
+    "permalink": "/Package_JSON"
+  },
+  "next": {
+    "title": "Syncing Tokens To Github",
+    "permalink": "/Syncing_Tokens_To_Github"
+  }
+}

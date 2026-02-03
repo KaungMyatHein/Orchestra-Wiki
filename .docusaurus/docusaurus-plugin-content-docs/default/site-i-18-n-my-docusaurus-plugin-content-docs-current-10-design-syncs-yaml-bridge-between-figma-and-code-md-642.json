@@ -1,0 +1,26 @@
+{
+  "id": "Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
+  "title": "Figma နဲ့ Code ကြားက တံတား",
+  "description": "Figma က ကျွန်းတစ်ကျွန်း ဖြစ်သလို၊ သင့် Codebase ကလည်း ကျွန်းတစ်ကျွန်းပါပဲ။ Design Syncs က ဒီကျွန်းနှစ်ခုကြားက ပေါင်းကူးတံတားပါ။ ဒီဇိုင်းအပြောင်းအလဲတွေကို သင်ကိုယ်တိုင် Figma က ထွက်စရာမလိုဘဲ Developer တွေဆီ အလိုအလျောက် ပို့ဆောင်ပေးမယ့် \"Automated Courier\" (အလိုအလျောက် စာပို့လုလင်) တစ်ဦးလို့ မြင်ကြည့်နိုင်ပါတယ်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/10_Design_Syncs.YAML_Bridge_Between_Figma_And_Code.md",
+  "sourceDirName": ".",
+  "slug": "/Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
+  "permalink": "/my/Design_Syncs.YAML_Bridge_Between_Figma_And_Code",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 10,
+  "frontMatter": {
+    "sidebar_position": 10
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Translation အင်ဂျင်",
+    "permalink": "/my/build-js-translation-engine"
+  },
+  "next": {
+    "title": "ထိန်းချုပ်ခန်း",
+    "permalink": "/my/Package_JSON"
+  }
+}
