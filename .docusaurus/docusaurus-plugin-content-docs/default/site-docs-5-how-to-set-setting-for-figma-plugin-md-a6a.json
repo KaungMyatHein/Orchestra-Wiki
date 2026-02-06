@@ -1,0 +1,26 @@
+{
+  "id": "How_To_Set_Setting_For_Figma_Plugin",
+  "title": "How To Set Setting For Figma Plugin",
+  "description": "The GitHub Configuration Panel",
+  "source": "@site/docs/5_How_To_Set_Setting_For_Figma_Plugin.md",
+  "sourceDirName": ".",
+  "slug": "/How_To_Set_Setting_For_Figma_Plugin",
+  "permalink": "/How_To_Set_Setting_For_Figma_Plugin",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {
+    "sidebar_position": 5
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Orchestra Design System CLI",
+    "permalink": "/Setup_Orchestra_CLI"
+  },
+  "next": {
+    "title": "Syncing Tokens To Github",
+    "permalink": "/Syncing_Tokens_To_Github"
+  }
+}

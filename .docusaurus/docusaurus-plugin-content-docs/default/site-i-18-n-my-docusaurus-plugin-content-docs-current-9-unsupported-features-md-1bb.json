@@ -1,0 +1,26 @@
+{
+  "id": "Unsupported_Features",
+  "title": "လက်ရှိ မပါဝင်သေးသော အရာများ (Limitations)",
+  "description": "ကိရိယာတစ်ခုကို ထိထိရောက်ရောက် အသုံးပြုဖို့ သူ့ရဲ့ ဘောင်တွေကို သိရှိထားရပါမယ်။ အောက်ပါအချက်တွေကတော့ Orchestra Sync က လက်ရှိ မလုပ်ဆောင်နိုင်သေးသော အရာများ ဖြစ်ပါတယ်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/9_Unsupported_Features.md",
+  "sourceDirName": ".",
+  "slug": "/Unsupported_Features",
+  "permalink": "/my/Unsupported_Features",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 9,
+  "frontMatter": {
+    "sidebar_position": 9
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ရရှိနိုင်သော လုပ်ဆောင်ချက်များ (Supported Features)",
+    "permalink": "/my/Supported_Features"
+  },
+  "next": {
+    "title": "သင်ကြုံတွေ့နိုင်သော အမှားများနှင့် ဖြေရှင်းနည်းများ",
+    "permalink": "/my/Possible_Error_You_Will_Face"
+  }
+}

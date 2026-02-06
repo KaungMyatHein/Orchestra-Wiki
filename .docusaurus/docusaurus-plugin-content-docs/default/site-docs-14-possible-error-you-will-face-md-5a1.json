@@ -18,5 +18,9 @@
   "previous": {
     "title": "Syncing Tokens To Github",
     "permalink": "/Syncing_Tokens_To_Github"
+  },
+  "next": {
+    "title": "Orchestra Design System CLI",
+    "permalink": "/Setup_Orchestra_CLI"
   }
 }

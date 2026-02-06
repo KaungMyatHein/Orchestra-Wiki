@@ -1,0 +1,26 @@
+{
+  "id": "Setup_Orchestra_CLI",
+  "title": "Orchestra Design System CLI",
+  "description": "Orchestra project များအတွက် design tokens များကို sync လုပ်ခြင်းနှင့် build လုပ်ခြင်းတို့ကို အလိုအလျောက်လုပ်ဆောင်ပေးမည့် CLI tool တစ်ခုဖြစ်သည်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/4_Setup_Orchestra_CLI.md",
+  "sourceDirName": ".",
+  "slug": "/Setup_Orchestra_CLI",
+  "permalink": "/my/Setup_Orchestra_CLI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "ကြိုတင်လိုအပ်ချက်များ",
+    "permalink": "/my/Prerequisites"
+  },
+  "next": {
+    "title": "Figma Plugin က Setting ကို ပြင်ဆင်နည်း",
+    "permalink": "/my/How_To_Set_Setting_For_Figma_Plugin"
+  }
+}

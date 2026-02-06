@@ -1,0 +1,26 @@
+{
+  "id": "Things_To_Take_Care",
+  "title": "Things to Take Care Of (Best Practices)",
+  "description": "With great power comes great responsibility. Orchestra Sync allows you to change production code from a design tool. Here is how to do it safely.",
+  "source": "@site/docs/7_Things_To_Take_Care.md",
+  "sourceDirName": ".",
+  "slug": "/Things_To_Take_Care",
+  "permalink": "/Things_To_Take_Care",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Syncing Tokens To Github",
+    "permalink": "/Syncing_Tokens_To_Github"
+  },
+  "next": {
+    "title": "Supported Features",
+    "permalink": "/Supported_Features"
+  }
+}

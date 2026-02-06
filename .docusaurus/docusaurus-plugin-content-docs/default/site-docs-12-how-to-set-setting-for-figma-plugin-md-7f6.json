@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "The Control Center",
-    "permalink": "/Package_JSON"
+    "title": "Limitations (What is Not Supported)",
+    "permalink": "/Unsupported_Features"
   },
   "next": {
     "title": "Syncing Tokens To Github",

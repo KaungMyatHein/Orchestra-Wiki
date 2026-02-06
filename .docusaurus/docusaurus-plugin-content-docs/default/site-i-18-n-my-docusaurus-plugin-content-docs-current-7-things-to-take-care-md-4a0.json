@@ -1,0 +1,26 @@
+{
+  "id": "Things_To_Take_Care",
+  "title": "သတိပြုရန် အချက်များ (Best Practices)",
+  "description": "လုပ်ပိုင်ခွင့်တွေ ကြီးမားလာတာနဲ့အမျှ တာဝန်ယူမှုလည်း ကြီးမားလာပါတယ်။ Orchestra Sync က သင့်ကို Design Tool ထဲကနေ Production Code တွေကို လှမ်းပြင်ခွင့် ပေးထားပါတယ်။ ဒါကြောင့် ဘေးကင်းအောင် ဘယ်လို လုပ်ဆောင်ရမလဲ ကြည့်ကြရအောင်။",
+  "source": "@site/i18n/my/docusaurus-plugin-content-docs/current/7_Things_To_Take_Care.md",
+  "sourceDirName": ".",
+  "slug": "/Things_To_Take_Care",
+  "permalink": "/my/Things_To_Take_Care",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "GitHub သို့ Tokens များ Sync လုပ်ခြင်း",
+    "permalink": "/my/Syncing_Tokens_To_Github"
+  },
+  "next": {
+    "title": "ရရှိနိုင်သော လုပ်ဆောင်ချက်များ (Supported Features)",
+    "permalink": "/my/Supported_Features"
+  }
+}

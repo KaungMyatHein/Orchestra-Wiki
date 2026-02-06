@@ -18,5 +18,9 @@
   "previous": {
     "title": "GitHub သို့ Tokens များ Sync လုပ်ခြင်း",
     "permalink": "/my/Syncing_Tokens_To_Github"
+  },
+  "next": {
+    "title": "Orchestra Design System CLI",
+    "permalink": "/my/Setup_Orchestra_CLI"
   }
 }

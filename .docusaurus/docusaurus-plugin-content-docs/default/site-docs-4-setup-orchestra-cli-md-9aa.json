@@ -1,0 +1,24 @@
+{
+  "id": "Setup_Orchestra_CLI",
+  "title": "Orchestra Design System CLI",
+  "description": "A CLI tool to automate syncing and building design tokens for Orchestra projects.",
+  "source": "@site/docs/4_Setup_Orchestra_CLI.md",
+  "sourceDirName": ".",
+  "slug": "/Setup_Orchestra_CLI",
+  "permalink": "/Setup_Orchestra_CLI",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "Prerequisites",
+    "permalink": "/Prerequisites"
+  },
+  "next": {
+    "title": "How To Set Setting For Figma Plugin",
+    "permalink": "/How_To_Set_Setting_For_Figma_Plugin"
+  }
+}

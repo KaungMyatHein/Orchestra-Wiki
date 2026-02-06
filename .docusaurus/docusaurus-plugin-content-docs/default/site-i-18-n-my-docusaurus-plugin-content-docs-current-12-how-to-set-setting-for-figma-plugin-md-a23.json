@@ -16,8 +16,8 @@
   },
   "sidebar": "tutorialSidebar",
   "previous": {
-    "title": "ထိန်းချုပ်ခန်း",
-    "permalink": "/my/Package_JSON"
+    "title": "လက်ရှိ မပါဝင်သေးသော အရာများ (Limitations)",
+    "permalink": "/my/Unsupported_Features"
   },
   "next": {
     "title": "GitHub သို့ Tokens များ Sync လုပ်ခြင်း",
