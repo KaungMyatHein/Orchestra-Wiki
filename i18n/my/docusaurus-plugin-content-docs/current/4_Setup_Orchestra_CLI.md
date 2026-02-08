@@ -6,6 +6,9 @@ sidebar_position: 4
 
 Orchestra project များအတွက် design tokens များကို sync လုပ်ခြင်းနှင့် build လုပ်ခြင်းတို့ကို အလိုအလျောက်လုပ်ဆောင်ပေးမည့် CLI tool တစ်ခုဖြစ်သည်။
 
+> **Open Source:** Orchestra CLI သည် open source ဖြစ်ပြီး အောက်ပါ link တွင် ဝင်ရောက်ကြည့်ရှုနိုင်ပါသည်:  
+> https://github.com/KaungMyatHein/Orchestra-CLI.git
+
 ## ကြိုတင်လိုအပ်ချက်များ
 
 - **Node.js**: v22 သို့မဟုတ် ထို့ထက်မြင့်ရမည်

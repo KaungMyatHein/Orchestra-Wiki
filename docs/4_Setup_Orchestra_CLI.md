@@ -2,6 +2,9 @@
 
 A CLI tool to automate syncing and building design tokens for Orchestra projects.
 
+> **Open Source:** Orchestra CLI is open source and available on GitHub:  
+> https://github.com/KaungMyatHein/Orchestra-CLI.git
+
 ## Prerequisites
 
 
